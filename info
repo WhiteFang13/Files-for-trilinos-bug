@@ -1,0 +1,5 @@
+The matrix A is sparse. The file A.txt contains the matrix A, where every first number is the element index, and the second nuber is its vslue, in the current row.
+Other elements are equal zero. For example, the first row is
+0 -0.0078125 8 -0.00260417 9 -0.00260417 17 -0.00260417 33 -0.00130208 46 -0.00390625 52 -0.0416667
+In this row the element #0 = -0.0078125, #8 = -0.00260417, #9 = -0.00260417, #17 = -0.00260417, #33 = ..., and #46 = ..., #52 = ...;
+other elements in this row are zero.
